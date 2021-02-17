@@ -1,0 +1,1 @@
+return "quack tiff"
